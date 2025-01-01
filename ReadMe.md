@@ -15,4 +15,7 @@ I'm Haris, a Software Engineering student at the University of Waterloo. This po
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hariskhawja&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
+## ♟ LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/stormguardian01?theme=dark&font=Noto%20Sans%20Math&ext=heatmap)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
