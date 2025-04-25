@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Haris, a Software Engineering student at the University of Waterloo. This portfolio showcases my journey toward mastering software development, whether it be embedded systems, full-stack, or Artificial Intelligence. I strive to be the best -- no matter the difficulty of the task presented, I will always win. I'm currently working on LetsCook, a full-stack web application where users can compete to prepare meals and create recipes, thereby improving their cooking skills. Check it out, along with all the other cool things I've been doing!
+I'm Haris, a Software Engineering student at the University of Waterloo. This portfolio showcases my journey toward mastering software development, whether it be embedded systems, full-stack, or Artificial Intelligence. I strive to be the best -- no matter the difficulty of the task presented, I will always win, watch. I'm currently working on LetsCook, a full-stack web application where users can compete to prepare meals and create recipes, thereby improving their cooking skills. Check it out, along with all the other cool things I've been doing!
 
 
 ## 🌐 Socials:
