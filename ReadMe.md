@@ -2,7 +2,7 @@
 🤘I'm Haris, a Software Engineering student at the University of Waterloo. I'm on a personal journey toward mastering software development, whether it be embedded systems, full-stack, or Artificial Intelligence.<br><br>💯I strive to be the best—no matter the difficulty of the task presented, I will always come out victorious.<br><br>🔥I've released LetsCook, a full-stack web application with over 30+ active users and 200 site visits weekly. It's a platform where users can compete to prepare meals and create recipes, thereby improving their cooking skills.<br><br>⚡Currently working on something MASSIVE! We're in stealth, but you should keep a careful watch on me...
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haris_khawja) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hariskhawja) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hariskhawja@gmail.com) 
 
 # 💻 Tech Stack:
@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=hariskhawja&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=hariskhawja&theme=dark&hide_border=false)<br/>
 
-## ♟ LeetCode
+# ♟ LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/stormguardian01?theme=dark&font=Noto%20Sans%20Math&ext=heatmap)
 ---
 [![](https://visitcount.itsvg.in/api?id=hariskhawja&icon=0&color=0)](https://visitcount.itsvg.in)
