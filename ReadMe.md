@@ -1,11 +1,7 @@
-# 💫 About Me:
-🤘I'm Haris, a Software Engineering student at the University of Waterloo. I'm on a personal journey toward mastering software development, whether it be embedded systems, full-stack, or Artificial Intelligence.
+# 👤 About Me:
+I'm Haris, a 3rd year Software Engineering student at the University of Waterloo.
 
-💯I strive to be the best—no matter the difficulty of the task presented, I will always come out victorious.
-
-🔥I've released LetsCook, a full-stack web application with over 30+ active users and 200 site visits weekly. It's a platform where users can compete to prepare meals and create recipes, thereby improving their cooking skills.
-
-⚡Currently working on something MASSIVE! We're in stealth, but you should keep a careful watch on me...
+Present the task, and I do it, no matter the challenge. With an expertise across the full-stack, embedded, and a specialization in AI/ML, I commit to exerting my maximum effort in order to realize goals in an optimal, efficient, and rapid manner.
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haris_khawja) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hariskhawja) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hariskhawja@gmail.com) 
