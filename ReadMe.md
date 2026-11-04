@@ -1,7 +1,7 @@
 # 👤 About Me:
 I'm Haris, a 3rd year Software Engineering student at the University of Waterloo.
 
-Present the task, and I do it, no matter the challenge. With an expertise across the full-stack, embedded, and a specialization in AI/ML, I commit to exerting my maximum effort in order to realize goals in an optimal, efficient, and rapid manner.
+With an expertise across the full-stack, embedded, and a specialization in AI/ML, I love to build, and to build things that are optimal, efficient, and fast.
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haris_khawja) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hariskhawja) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hariskhawja@gmail.com) 
